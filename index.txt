@@ -1,9 +1,12 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
+feature1 'ok'
    <H1>   GIT	</H1>
 
    <H1> VERSIONAMENTO </H1>
 
+   <H1> VERSIONAMENTO </H1>
+main 'ok'
 </BODY>
 </HTML>
